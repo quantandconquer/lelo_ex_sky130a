@@ -1,18 +1,18 @@
 library: LELO_EX_SKY130A
 cell: LELO_EX
 # Your name
-author: Anonymous
+author: Justin Correll
 # Your github username
-github: analogicus
+github: quantandconquer
 # Something funny and descriptive
 tagline: The answer is 42
 # Your email, if you so wish
-email: anon@anon.com
+email: correllj@umich.edu
 # Your github site, usually <github username>.github.io
-url: analogicus.github.io
+url: quantandconquer.github.io
 doc:
   # Make docs
-  #libraries:
-  #   <library>:
-  #       - <cell>
+  libraries:
+    LELO_EX_SKY130A:
+      - LELO_EX
   #       - <cell>

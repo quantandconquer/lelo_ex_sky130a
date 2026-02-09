@@ -8,12 +8,11 @@ justin
 
 # Why
 
-<explain why you made this module>
+Current Mirror
 
 # How
 
-<explain short how you made this module>
-
+Follow tutorial
 
 # What
 
